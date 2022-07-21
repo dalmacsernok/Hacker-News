@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codecool.HackerNewsClient", "Codecool.HackerNewsClient.csproj", "{47032F76-6A49-4972-8C4B-BADC036AB379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47032F76-6A49-4972-8C4B-BADC036AB379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47032F76-6A49-4972-8C4B-BADC036AB379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47032F76-6A49-4972-8C4B-BADC036AB379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47032F76-6A49-4972-8C4B-BADC036AB379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC589D6-6965-4678-B3BD-DF9F21FE31B1}
+	EndGlobalSection
+EndGlobal
